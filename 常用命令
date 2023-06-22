@@ -1,1 +1,1 @@
-curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+curl -fsSL "https://github.com/Andyblbl/test/blob/main/alist.sh" | bash -s install
